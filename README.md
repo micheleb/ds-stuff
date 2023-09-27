@@ -12,6 +12,8 @@ You can find the Storybook projects inside the `src` folder:
 
 I use [`asdf`](https://asdf-vm.com/) to manage node/npm/ruby versions, so you'll find a `.tool-versions` file to setup your node versions inside each folder (yes, they use different node versions).
 
+The projects are pretty much what you get after setting up your workspace as describe by the Storybook guides, using `react-vite` for the Web setup, and the default Expo template for the React Native one. Plus, I fixed a couple of issues with dependencies that each project had. Enjoy! 🚀
+
 # Interesting links
 
 - [Storybook's guide on Design Systems](https://storybook.js.org/tutorials/design-systems-for-developers/react/en/introduction/)
