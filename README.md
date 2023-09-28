@@ -3,6 +3,10 @@ Useful / interesting links and sources about Design Systems in React Native.
 
 Companion repo to the talk I gave at the [React Native Berlin Meetup](https://www.meetup.com/react-native-berlin/events/295339575/) on September 27, 2023.
 
+# Slides
+
+Slides are available [here](./JustWatch-Design-System.key). You will need to install the [Lato font](https://fonts.google.com/specimen/Lato) (regular and italic).
+
 # Code
 
 You can find the Storybook projects inside the `src` folder:
