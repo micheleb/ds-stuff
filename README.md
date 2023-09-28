@@ -20,6 +20,8 @@ The projects are pretty much what you get after setting up your workspace as des
 
 # Interesting links
 
+- [Storybook (Web)](https://github.com/storybookjs/storybook)
+- [Storybook React Native](https://github.com/storybookjs/react-native)
 - [Storybook's guide on Design Systems](https://storybook.js.org/tutorials/design-systems-for-developers/react/en/introduction/)
 - [Design Systems by Figma](https://www.designsystems.com/)
 - [How Spotify's design system goes beyond platforms](https://www.designsystems.com/how-spotifys-design-system-goes-beyond-platforms/)
